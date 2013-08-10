@@ -9,13 +9,18 @@ In my vision, there shoube be an automatically prediction and delivery mechanism
 
 ##Plan
 Stage 1: focus on learning algorithm and feature vector construction of items
+
 Stage 2: modelling user activity and profile learner
+
 Stage 3: UI integration and get user feedback through click chain
+
 Stage 4: scale out for more content.
 
 ##related posts in my blog
 [Introduction](http://junjiang.me/recommender_system/2013/05/18/RS/)
+
 [Item representation](http://junjiang.me/recommender_system/2013/06/30/RS2/)
+
 [Profile Learner](http://junjiang.me/recommender_system/machine_learning/2013/07/10/RD4/)
 
 
