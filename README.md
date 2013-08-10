@@ -16,6 +16,11 @@ Stage 3: UI integration and get user feedback through click chain
 
 Stage 4: scale out for more content.
 
+##Data
+In stage 1&2, I will just use research data from MIT. [20Newsgroup](http://qwone.com/~jason/20Newsgroups/)
+
+In stage 3,4, I will construct a pipe line to ingest data from web crawler.
+
 ##related posts in my blog
 [Introduction](http://junjiang.me/recommender_system/2013/05/18/RS/)
 
