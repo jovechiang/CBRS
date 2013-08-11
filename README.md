@@ -28,4 +28,12 @@ In stage 3,4, I will construct a pipe line to ingest data from web crawler.
 
 [Profile Learner](http://junjiang.me/recommender_system/machine_learning/2013/07/10/RD4/)
 
+##High-Level Architecture
+<img src="/data/High-Level.png" alt="Architecture" title="Architecture" width="100%" />
+
+
+##Reference
+Recommendar System Handbook
+
+
 
